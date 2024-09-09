@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 ## Folder Structure:
 Before running the project, ensure that you have the following folder structure. You can create these folders in your project directory:
-                sample
+               ``` sample
                 ├───text_folder           # Contains the input text files (news articles)
                 ├───news_content          # Stores news content files for summarization
                 ├───key_words_generated   # Where keyword files will be stored
@@ -26,7 +26,7 @@ Before running the project, ensure that you have the following folder structure.
                 ├───img_folder            # Contains images for the video slideshow
                 ├───vid_folder            # The final output video will be saved here
                 ├───subtitles             # Stores generated subtitles (SRT files)
-                └───bg_image_logo         # Contains background videos and logos
+                └───bg_image_logo         # Contains background videos and logos```
 # Note that the paths to be use in the main code need to be customize according to the implementation of the File structure of the project.
 
 ## API Setup
